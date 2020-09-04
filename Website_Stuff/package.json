@@ -20,7 +20,7 @@
     "express-session": "1.11.3",
     "jade": "1.11.0",
     "moment": "2.10.3",
-    "mongodb": "2.0.45",
+    "mongodb": "3.6.1",
     "stylus": "0.52.4"
   },
   "engines": {
